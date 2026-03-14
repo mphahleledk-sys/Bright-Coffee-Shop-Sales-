@@ -13,6 +13,7 @@ Objective
 -Have to use MIRO for brainstorming 
 -Canva for project planning
 -Databricks for Data manipulation & Processing
+-Powerpoint presentation for detailed findings 
 
 Summary of Results 
-Sale have dropped by 50% compared december , this could be seasonal changes 
+Sale have dropped by 50% compared to December , this could be seasonal changes 
