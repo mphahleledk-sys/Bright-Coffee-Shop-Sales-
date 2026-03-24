@@ -17,3 +17,15 @@ Objective
 
 Summary of Results 
 Sale have dropped by 50% compared to December , this could be seasonal changes 
+
+Following Steps will be applied on the project planning 
+1.Project description and Raw data will be uploaded which shows perfomance of stores transactions
+1.1 Project description 
+1.2 Raw data didcription 
+2.Project Planning
+2.1Miro showing process flow & mapping
+2.2Canva- Project Ganth Chart to check progress
+3.Data Processing 
+3.1SQL Script file
+3.2Excel working on data
+
