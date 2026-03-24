@@ -1,4 +1,4 @@
-# Bright-Coffee-Shop-Sales-
+# Bright-Coffee-Shop-Sales-Project Analytics 
 Analysis for the CEO to understand the sales st Bright Coffee Shop for the past 6 months 
 
 Project Statement
@@ -16,16 +16,23 @@ Objective
 -Powerpoint presentation for detailed findings 
 
 Summary of Results 
-Sale have dropped by 50% compared to December , this could be seasonal changes 
+Sale have dropped this could be seasonal changes ,customer behaviour ,pricing etc which will be determined on the analysis
 
 Following Steps will be applied on the project planning 
-1.Project description and Raw data will be uploaded which shows perfomance of stores transactions
+Following Steps will be applied on the project planning 
+1.Project description and Raw data 
 1.1 Project description 
 1.2 Raw data didcription 
+
 2.Project Planning
 2.1Miro showing process flow & mapping
 2.2Canva- Project Ganth Chart to check progress
+
 3.Data Processing 
 3.1SQL Script file
 3.2Excel working on data
+
+4.Project Presentation 
+4.1Power point detailed 
+4.2Dashboad Excel  or Power Bi 
 
