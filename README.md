@@ -37,8 +37,7 @@ Following Steps will be applied on the project planning
 4.2Dashboad Excel  or Power Bi 
 
 SUMMARY OF ANALYSIS
--Product that generate most Sales is Coffee at R269K  -  39%
-Followed by Tea R196K @ 28%
+-Product that generate most Sales is Coffee at R269K -  39% ,followed by Tea R196K @ 28%
 -More sales peak up in the month of April and June is the highest @ R166K
 -Hells Kitchen has the highest sales in the last 6 months  R236k @ 33,84%
 -More sales  peak up at 7:00-10:00 and start dropping
