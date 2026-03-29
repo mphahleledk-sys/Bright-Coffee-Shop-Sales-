@@ -1,5 +1,4 @@
 # Bright-Coffee-Shop-Sales-Project Analytics 
-Analysis for the CEO to understand the sales st Bright Coffee Shop for the past 6 months 
 
 Project Statement
 Sales have been declining in the past 6 months and CEO wants to understand the cause of decline in sales 
